@@ -1,3 +1,4 @@
+Meu Sistema Operacional Pessoal「Manu OS」
 1. Sobre o projeto
 O Manu OS é um Sistema Operacional Pessoal desenvolvido para centralizar e organizar atividades profissionais, acadêmicas, familiares, pessoais e de saúde.
 O sistema foi criado a partir de um problema real da minha rotina: as demandas chegam por diferentes canais, como e-mail, WhatsApp, LINE, telefone, reuniões, documentos e conversas presenciais. Antes, parte dessas informações era controlada em Word, papel, calendário, mensagens e memória.
@@ -140,3 +141,7 @@ Documentação da utilização da IA como apoio à organização e ao planejamen
 O Manu OS busca reduzir a fragmentação das informações, diminuir o risco de esquecimento, melhorar o acompanhamento de atividades delegadas e permitir uma visão mais clara das prioridades.
 O sistema não pretende concentrar todas as ferramentas utilizadas no dia a dia. Seu objetivo é funcionar como uma camada central de controle das ações que exigem acompanhamento, mantendo ferramentas especializadas, como calendário e sistemas corporativos, em suas respectivas funções.
 A combinação de ClickUp, métodos de produtividade e Inteligência Artificial permite transformar demandas dispersas em um fluxo organizado de captura, decisão, execução, acompanhamento e revisão.
+
+Aluno: Emmanoel Shiroshi Tanaka 
+RA: 237221 
+Disciplina: Produtividade e Gestão do Tempo
