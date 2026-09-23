@@ -127,11 +127,9 @@ Figura 1 — Dashboard de produtividade
  Visão consolidada das atividades, prioridades, status, prazos e indicadores.
 Figura 2 — Fluxo das atividades
 <img width="1909" height="915" alt="Figura 2 — Fluxo de gerenciamento das atividades no Manu OS" src="https://github.com/user-attachments/assets/29bd5182-2430-42f3-af68-5ba3c3dd6371" />
-<img width="1908" height="910" alt="Figura 3 — Visualização automática das principais prioridades" src="https://github.com/user-attachments/assets/9287f9d9-a591-4626-9961-224735d4f60f" />
  Quadro demonstrando as etapas Inbox, Próxima ação, Em andamento, Delegado, Aguardando e Concluído.
 Figura 3 — Top Prioridades
-![Uploading Figura 3 — Visualização automática das principais prioridades..jpg…]()
- Visualização das atividades classificadas como Urgente ou Alta.
+<img width="1908" height="910" alt="Figura 3 — Visualização automática das principais prioridades" src="https://github.com/user-attachments/assets/9287f9d9-a591-4626-9961-224735d4f60f" /> Visualização das atividades classificadas como Urgente ou Alta.
 Figura 4 — Atividades delegadas
 <img width="1917" height="906" alt="Figura 4 — Controle de atividades delegadas e datas de acompanhamento" src="https://github.com/user-attachments/assets/a9caba63-cada-4128-85f6-1afb95e56d7f" />
  Controle das atividades delegadas utilizando prazo final e data de acompanhamento.
